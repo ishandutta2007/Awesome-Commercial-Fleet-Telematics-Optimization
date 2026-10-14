@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome Awesome Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Commercial-Fleet-Telematics-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Commercial-Fleet-Telematics-Optimization?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Commercial-Fleet-Telematics-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Commercial-Fleet-Telematics-Optimization?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Commercial-Fleet-Telematics-Optimization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Commercial-Fleet-Telematics-Optimization?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Commercial-Fleet-Telematics-Optimization/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Commercial-Fleet-Telematics-Optimization?style=flat-square" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Commercial-Fleet-Telematics-Optimization/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Commercial-Fleet-Telematics-Optimization?style=flat-square" alt="License" /></a>
@@ -65,49 +65,49 @@ The following table benchmarks category leaders in commercial fleet telematics, 
 
 Explore curated open-source projects for self-hosted GPS tracking, vehicle routing problem (VRP) solving, driver safety analytics, and telematics pipelines. Repositories are ranked descending by GitHub stargazer count ⭐.
 
-- **[Project-OSRM / osrm-backend](https://github.com/Project-OSRM/osrm-backend)** [![GitHub stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social&color=white)](https://github.com/Project-OSRM/osrm-backend/stargazers)  
+- **[Project-OSRM / osrm-backend](https://github.com/Project-OSRM/osrm-backend)** [![GitHub_Stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social&color=white)](https://github.com/Project-OSRM/osrm-backend/stargazers)  
   High-performance Open Source Routing Machine (C++) designed to run on OpenStreetMap (OSM) data. Computes lightning-fast shortest paths, multi-vehicle distance-duration matrices, and turn-by-turn navigation instructions for large commercial fleets 🛣️.
 
-- **[traccar / traccar](https://github.com/traccar/traccar)** [![GitHub stars](https://img.shields.io/github/stars/traccar/traccar?style=social&color=white)](https://github.com/traccar/traccar/stargazers)  
+- **[traccar / traccar](https://github.com/traccar/traccar)** [![GitHub_Stars](https://img.shields.io/github/stars/traccar/traccar?style=social&color=white)](https://github.com/traccar/traccar/stargazers)  
   Leading open-source modern GPS tracking and fleet management platform (Java). Supports over 200+ telematics communication protocols and thousands of GPS tracking device models, featuring real-time map tracking, geofencing, trip history playback, and comprehensive telemetry event alerts 🛰️.
 
-- **[graphhopper / graphhopper](https://github.com/graphhopper/graphhopper)** [![GitHub stars](https://img.shields.io/github/stars/graphhopper/graphhopper?style=social&color=white)](https://github.com/graphhopper/graphhopper/stargazers)  
+- **[graphhopper / graphhopper](https://github.com/graphhopper/graphhopper)** [![GitHub_Stars](https://img.shields.io/github/stars/graphhopper/graphhopper?style=social&color=white)](https://github.com/graphhopper/graphhopper/stargazers)  
   Fast, memory-efficient routing engine and vehicle routing problem solver (Java). Powers commercial fleet routing, turn-by-turn navigation, isochrone calculation, and customizable truck profiles (height, weight, axle load restrictions) 🚚.
 
-- **[openremote / openremote](https://github.com/openremote/openremote)** [![GitHub stars](https://img.shields.io/github/stars/openremote/openremote?style=social&color=white)](https://github.com/openremote/openremote/stargazers)  
+- **[openremote / openremote](https://github.com/openremote/openremote)** [![GitHub_Stars](https://img.shields.io/github/stars/openremote/openremote?style=social&color=white)](https://github.com/openremote/openremote/stargazers)  
   100% open-source IoT device management and telemetry automation platform (Java). Serves as an enterprise foundation for connected vehicle data pipelines, protocol integration, rules engines, asset tracking, and customizable dashboards 🌐.
 
-- **[VROOM-Project / vroom](https://github.com/VROOM-Project/vroom)** [![GitHub stars](https://img.shields.io/github/stars/VROOM-Project/vroom?style=social&color=white)](https://github.com/VROOM-Project/vroom/stargazers)  
+- **[VROOM-Project / vroom](https://github.com/VROOM-Project/vroom)** [![GitHub_Stars](https://img.shields.io/github/stars/VROOM-Project/vroom?style=social&color=white)](https://github.com/VROOM-Project/vroom/stargazers)  
   High-performance Vehicle Routing Open-source Optimization Machine (C++). Solves complex Vehicle Routing Problems (VRP, CVRP, VRPTW) in milliseconds, optimizing delivery sequences, vehicle capacities, and time windows while integrating natively with OSRM and GraphHopper matrices ⚡.
 
-- **[pgRouting / pgrouting](https://github.com/pgRouting/pgrouting)** [![GitHub stars](https://img.shields.io/github/stars/pgRouting/pgrouting?style=social&color=white)](https://github.com/pgRouting/pgrouting/stargazers)  
+- **[pgRouting / pgrouting](https://github.com/pgRouting/pgrouting)** [![GitHub_Stars](https://img.shields.io/github/stars/pgRouting/pgrouting?style=social&color=white)](https://github.com/pgRouting/pgrouting/stargazers)  
   Geospatial routing extension for PostgreSQL and PostGIS. Adds shortest path (Dijkstra, A*, traveling salesperson), driving distance calculations, and graph analysis directly inside relational databases for spatial fleet analysis 🗺️.
 
-- **[itinero / routing](https://github.com/itinero/routing)** [![GitHub stars](https://img.shields.io/github/stars/itinero/routing?style=social&color=white)](https://github.com/itinero/routing/stargazers)  
+- **[itinero / routing](https://github.com/itinero/routing)** [![GitHub_Stars](https://img.shields.io/github/stars/itinero/routing?style=social&color=white)](https://github.com/itinero/routing/stargazers)  
   Modular and cross-platform routing library built in C#/.NET for OpenStreetMap data. Ideal for mobile and embedded fleet devices requiring offline route calculation, multimodal journey planning, and custom vehicle constraints 📱.
 
-- **[Inferensys / ai-driver-safety](https://github.com/Inferensys/ai-driver-safety)** [![GitHub stars](https://img.shields.io/github/stars/Inferensys/ai-driver-safety?style=social&color=white)](https://github.com/Inferensys/ai-driver-safety/stargazers)  
+- **[Inferensys / ai-driver-safety](https://github.com/Inferensys/ai-driver-safety)** [![GitHub_Stars](https://img.shields.io/github/stars/Inferensys/ai-driver-safety?style=social&color=white)](https://github.com/Inferensys/ai-driver-safety/stargazers)  
   Intelligent computer-vision driver monitoring system. Analyzes in-cabin video streams to construct a frame-by-frame risk timeline for eye closure, yawning, drowsiness, and mobile phone distraction at up to 128 FPS on edge hardware using MediaPipe 👁️.
 
-- **[connor-makowski / scgraph](https://github.com/connor-makowski/scgraph)** [![GitHub stars](https://img.shields.io/github/stars/connor-makowski/scgraph?style=social&color=white)](https://github.com/connor-makowski/scgraph/stargazers)  
+- **[connor-makowski / scgraph](https://github.com/connor-makowski/scgraph)** [![GitHub_Stars](https://img.shields.io/github/stars/connor-makowski/scgraph?style=social&color=white)](https://github.com/connor-makowski/scgraph/stargazers)  
   Lightweight Python shortest-path routing tool for transportation networks and supply chain operations (developed with MIT CTL and Kühne Logistics University). Generates offline road, rail, maritime, and multimodal routes for supply chain simulation 🚢.
 
-- **[openremote / fleet-management](https://github.com/openremote/fleet-management)** [![GitHub stars](https://img.shields.io/github/stars/openremote/fleet-management?style=social&color=white)](https://github.com/openremote/fleet-management/stargazers)  
+- **[openremote / fleet-management](https://github.com/openremote/fleet-management)** [![GitHub_Stars](https://img.shields.io/github/stars/openremote/fleet-management?style=social&color=white)](https://github.com/openremote/fleet-management/stargazers)  
   Reference open-source fleet management application built atop OpenRemote. Demonstrates live OBD-II device integration, automated geofence alerts, fuel/battery telemetry monitoring, and vehicle health dashboarding 🔌.
 
-- **[philippnormann / ev-charging-optimization](https://github.com/philippnormann/ev-charging-optimization)** [![GitHub stars](https://img.shields.io/github/stars/philippnormann/ev-charging-optimization?style=social&color=white)](https://github.com/philippnormann/ev-charging-optimization/stargazers)  
+- **[philippnormann / ev-charging-optimization](https://github.com/philippnormann/ev-charging-optimization)** [![GitHub_Stars](https://img.shields.io/github/stars/philippnormann/ev-charging-optimization?style=social&color=white)](https://github.com/philippnormann/ev-charging-optimization/stargazers)  
   Electric vehicle fleet routing and charging schedule optimizer using Ant Colony Optimization (ACO) algorithms to balance charging downtime, battery degradation, and delivery deadlines 🔋.
 
-- **[AkashKabra11 / Driver-Behavior-Scoring](https://github.com/AkashKabra11/Driver-Behavior-Scoring)** [![GitHub stars](https://img.shields.io/github/stars/AkashKabra11/Driver-Behavior-Scoring?style=social&color=white)](https://github.com/AkashKabra11/Driver-Behavior-Scoring/stargazers)  
+- **[AkashKabra11 / Driver-Behavior-Scoring](https://github.com/AkashKabra11/Driver-Behavior-Scoring)** [![GitHub_Stars](https://img.shields.io/github/stars/AkashKabra11/Driver-Behavior-Scoring?style=social&color=white)](https://github.com/AkashKabra11/Driver-Behavior-Scoring/stargazers)  
   Driver behavior analysis and safety risk scoring module built on vehicle sensor telemetry (acceleration, harsh braking, cornering) to compute risk profiles for fleet insurance and driver safety evaluation 🚦.
 
-- **[Sid-Romero / fleetpulse](https://github.com/Sid-Romero/fleetpulse)** [![GitHub stars](https://img.shields.io/github/stars/Sid-Romero/fleetpulse?style=social&color=white)](https://github.com/Sid-Romero/fleetpulse/stargazers)  
+- **[Sid-Romero / fleetpulse](https://github.com/Sid-Romero/fleetpulse)** [![GitHub_Stars](https://img.shields.io/github/stars/Sid-Romero/fleetpulse?style=social&color=white)](https://github.com/Sid-Romero/fleetpulse/stargazers)  
   Full-stack real-time IoT fleet management platform (MIT) engineered with Go, React, PostgreSQL, and WebSockets. Features live telemetry ingestion, vehicle health monitoring, alert escalation workflows, and Prometheus/Grafana observability 📊.
 
-- **[JayDS22 / Driver-Behavior-Analytics-System](https://github.com/JayDS22/Driver-Behavior-Analytics-System)** [![GitHub stars](https://img.shields.io/github/stars/JayDS22/Driver-Behavior-Analytics-System?style=social&color=white)](https://github.com/JayDS22/Driver-Behavior-Analytics-System/stargazers)  
+- **[JayDS22 / Driver-Behavior-Analytics-System](https://github.com/JayDS22/Driver-Behavior-Analytics-System)** [![GitHub_Stars](https://img.shields.io/github/stars/JayDS22/Driver-Behavior-Analytics-System?style=social&color=white)](https://github.com/JayDS22/Driver-Behavior-Analytics-System/stargazers)  
   Statistical driver risk analytics framework combining Cox proportional hazards modeling (C-index: 0.79) and Bayesian hierarchical models (91.4% accuracy). Features sub-200ms scoring latency, SHAP model explainability, and Docker/Kubernetes deployment manifests 🧠.
 
-- **[Logistics-Living-Lab / sucolo-routing-frontend](https://github.com/Logistics-Living-Lab/sucolo-routing-frontend)** [![GitHub stars](https://img.shields.io/github/stars/Logistics-Living-Lab/sucolo-routing-frontend?style=social&color=white)](https://github.com/Logistics-Living-Lab/sucolo-routing-frontend/stargazers)  
+- **[Logistics-Living-Lab / sucolo-routing-frontend](https://github.com/Logistics-Living-Lab/sucolo-routing-frontend)** [![GitHub_Stars](https://img.shields.io/github/stars/Logistics-Living-Lab/sucolo-routing-frontend?style=social&color=white)](https://github.com/Logistics-Living-Lab/sucolo-routing-frontend/stargazers)  
   Specialized routing frontend prototype for urban cargo bike logistics and sustainable last-mile delivery, factoring in cycleway infrastructure and urban vehicle constraints 🚲.
 
 ---
@@ -128,7 +128,7 @@ For engineering teams looking to design an enterprise-grade, self-hosted commerc
 
 1. Fork this repository 🍴.
 2. Add or update entries in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Commercial-Fleet-Telematics-Optimization/README.md) following the existing tabular or badge format ✍️.
-3. Ensure all links are active and provide factual, objective details regarding functionality, pricing, or star badges 🔍.
+3. Ensure all links are active and provide factual, objective details regarding functionality, pricing, or Stars_Badges 🔍.
 4. Submit a Pull Request with a concise summary of the addition or revision 🚀.
 
 ---
